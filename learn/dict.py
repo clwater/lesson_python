@@ -11,3 +11,4 @@ print d.get('r' , -1)
 #通过pop(key)的方法删除
 d.pop('a')
 print d
+
