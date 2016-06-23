@@ -62,11 +62,29 @@
 
 # print jiecheng(5 , 3)
 
-def cals(*numbers):
-	sum = 0 
-	for n in numbers:
-		sum = sum + n * n
-	return sum
+# def cals(*numbers):
+# 	sum = 0 
+# 	for n in numbers:
+# 		sum = sum + n * n
+# 	return sum
 
-print cals(1,2,3)
+# print cals(1,2,3)
 
+#关键字参数
+def persion(name , age , **kw):
+	print( 'name:' , name , 'age:' , age , 'other:' , kw)
+	
+persion('aaa' , 30 , city = 'dalian' , job = 'it')
+
+ext ={'city':'大连湾','job':'程序员'}
+persion('gzb' , 23 , **ext)
+
+#参数组合
+def f1(a, b, c=0, *args, **kw):
+    print('a =', a, 'b =', b, 'c =', c, 'args =', args, 'kw =', kw)
+
+f1(1, 2)
+f1(1, 2, c=3)
+f1(1, 2, 3, 'a', 'b')
+f1(1, 2, 3, 'a', 'b', x=99)
+#f2(1, 2, d=99, ext=None)
