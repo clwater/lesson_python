@@ -70,21 +70,29 @@
 
 # print cals(1,2,3)
 
-#关键字参数
-def persion(name , age , **kw):
-	print( 'name:' , name , 'age:' , age , 'other:' , kw)
+# #关键字参数
+# def persion(name , age , **kw):
+# 	print( 'name:' , name , 'age:' , age , 'other:' , kw)
 	
-persion('aaa' , 30 , city = 'dalian' , job = 'it')
+# persion('aaa' , 30 , city = 'dalian' , job = 'it')
 
-ext ={'city':'大连湾','job':'程序员'}
-persion('gzb' , 23 , **ext)
+# ext ={'city':'大连湾','job':'程序员'}
+# persion('gzb' , 23 , **ext)
 
-#参数组合
-def f1(a, b, c=0, *args, **kw):
-    print('a =', a, 'b =', b, 'c =', c, 'args =', args, 'kw =', kw)
+# #参数组合：必选参数、默认参数、可变参数、命名关键字参数和关键字参数。
+# def f1(a, b, c=0, *args, **kw):
+#     print('a =', a, 'b =', b, 'c =', c, 'args =', args, 'kw =', kw)
 
-f1(1, 2)
-f1(1, 2, c=3)
-f1(1, 2, 3, 'a', 'b')
-f1(1, 2, 3, 'a', 'b', x=99)
-#f2(1, 2, d=99, ext=None)
+# f1(1, 2)
+# f1(1, 2, c=3)
+# f1(1, 2, 3, 'a', 'b')
+# f1(1, 2, 3, 'a', 'b', x=99)
+# #f2(1, 2, d=99, ext=None)
+
+#递归函数
+def fact(n):
+	if n == 1:
+		return 1
+	return n * fact(n - 1)
+
+print fact(1000)
