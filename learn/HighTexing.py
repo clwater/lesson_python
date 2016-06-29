@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 #切片
-L = ['a' , 'b' , 'c' , 'd' ,'e']
+#L = ['a' , 'b' , 'c' , 'd' ,'e']
 
 #print L[1:4]
 
@@ -41,12 +41,69 @@ L = ['a' , 'b' , 'c' , 'd' ,'e']
 # print L6
 
 #生成器
-g = (x * x for x in xrange(1,10))
+#g = (x * x for x in xrange(1,10))
 
 # print g
 # for x in xrange(1,10):
 # 	print next(g)
 
-print '----------------------'
-for x in g:
-	print x
+#print '----------------------'
+#for x in g:
+#	print x
+
+# def fib(max):
+# 	n , a, b = 0 , 1 , 1
+# 	while n < max:
+# 		print a
+# 		a , b = b , a + b
+# 		n = n + 1
+# 	return 'done'
+
+#fib(6)
+
+
+
+# def fib2(max):
+# 	n , a , b = 0 , 1 ,1
+# 	while  n < max:
+# 		yield a 
+# 		a , b = b , a + b
+# 		n = n + 1
+# 	return 
+
+# f = fib2(6)
+# for n in f:
+# 	print(n)
+
+# f = fib2(10)
+
+# for x in f:
+# 	print next(f)
+
+
+# def odd():
+# 	print 's1'
+# 	yield 1
+# 	print 's2'
+# 	yield 3
+# 	print 's3'
+# 	yield 5
+
+# o = odd()
+# print next(o)
+# print next(o)
+# print next(o)
+# print next(o)
+
+
+
+
+
+
+
+
+
+
+
+
+
