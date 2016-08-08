@@ -1,66 +1,80 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-'
 
-# /usr/bin/python
-from urllib import request
+"""查看Bug和Bug提醒
 
-from selenium.webdriver.support.wait import WebDriverWait
+Usage:
+    mail [-l]
+
+Options:
+    -h,--help        显示帮助菜单
+    -l               显示bug列表
+
+Example:
+    mail
+    mial -l
+"""
 
 from selenium import webdriver
-import time
+from prettytable import PrettyTable
+from docopt import docopt
+import pygame,time
 
 
+def show():
+    n = 0
+    pygame.init()
+    pygame.mixer.init()
+    pygame.time.delay(1000)
+    soundwav = pygame.mixer.Sound("shengyin.wav")
+    soundwav.play()
+    while n < 2:
+        time.sleep(1)
+        soundwav.play()
+        n = n + 1
 
-#'/Users/haizhi/Desktop/MyPythonShell/phantomjs-2.1.1-macosx/bin/phantomjs'
-
-
-# from selenium import webdriver
-#
-# url = "http://jira.haizhi.com/issues/?jql=assignee%20in%20(currentUser())"
-# driver = webdriver.PhantomJS(executable_path='/Users/haizhi/Desktop/MyPythonShell/phantomjs-2.1.1-macosx/bin/phantomjs')
-# #executable_path为你的phantomjs可执行文件路径
-# driver.get(url)
-#
-# #或得js变量的值
-# r = driver.execute_script('')
-# print (r)
-#
-#
-# print (driver.find_element_by_id("jira").text)
-
-#
-# from selenium import webdriver
-#
-#
-# url = 'http://mail.weibangong.com/?v=1470651451924#/dashboard/receive'
-# url = 'http;//www.baidu.com'
-# url = 'http://city.dlut.edu.cn/'
-#
-# driver = webdriver.PhantomJS(executable_path='/Users/haizhi/Desktop/MyPythonShell/phantomjs-2.1.1-macosx/bin/phantomjs')
-#
-# print('1')
-#
-# driver.get(url)
-# time.sleep(6)
-#
-# print (driver.page_source)
-#
-# print('2')
+    #showwarning("Bug来了=-=  ", "改bug去吧")
 
 
+def mail():
+    """command-line interface"""
+    arguments = docopt(__doc__)
+    status_l = arguments.get('-l')
+    while True:
+        getstatus(status_l)
+        time.sleep(300)
 
-# 引入selenium中的webdriver
-from selenium import webdriver
-import time
+def getstatus(status_l):
+    driver = webdriver.PhantomJS(executable_path="/Users/haizhi/Desktop/MyPythonShell/phantomjs-2.1.1-macosx/bin/phantomjs")
+    driver.get("http://jira.haizhi.com/login.jsp")
+    driver.find_element_by_id('login-form-username').send_keys('gengzhibo')
+    driver.find_element_by_id('login-form-password').send_keys('haizhi1234')
+    driver.find_element_by_id('login-form-submit').submit()
+    driver.get("http://jira.haizhi.com/issues/?jql=assignee%20in%20(currentUser())")
+    text = driver.find_element_by_id('issuetable').text
 
-# webdriver中的PhantomJS方法可以打开一个我们下载的静默浏览器。
-# 输入executable_path为当前文件夹下的phantomjs.exe以启动浏览器
-driver = webdriver.PhantomJS(executable_path="/Users/haizhi/Desktop/MyPythonShell/phantomjs-2.1.1-macosx/bin/phantomjs")
 
-# 使用浏览器请求页面
-driver.get("http://jira.haizhi.com/login.jsp?os_destination=%2Fsecure%2FDashboard.jspa")
+    text = text.replace('\n' , ' ')
+    text = text.replace('CLONE - ' , '')
+    list = text.split(' ')
 
-print( driver.page_source)
+    headers = '关键字 主题 经办人 报告人 状态 解决结果 创建日期'.split()
+    pt = PrettyTable()
+    pt._set_field_names(headers)
+
+    size = int((len(list) - 9 ) / 7 - 1)
+    list = list[9:]
+    for i in range(0 , size):
+        pt.add_row([list[ i * 7 ] , list[ i * 7 + 1] , list[ i * 7 + 2] , list[ i * 7 + 3] , list[ i * 7 + 4] , list[ i * 7 + 5] , list[ i * 7 + 6]])
+        if(list[ i * 7 + 4] == '开始' or list[ i * 7 + 4] == 'Reopene'):
+            show()
+
+    if(status_l):
+        print(pt)
+
+mail()
+
+
 
 
 
