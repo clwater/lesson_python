@@ -14,11 +14,14 @@ Example:
     mail
     mial -l
 """
+from tkinter import messagebox
 
 from selenium import webdriver
 from prettytable import PrettyTable
 from docopt import docopt
 import pygame,time
+from tkinter import *
+
 
 
 def show():
@@ -33,14 +36,24 @@ def show():
         soundwav.play()
         n = n + 1
 
-    #showwarning("Bug来了=-=  ", "改bug去吧")
+    root = Tk()
+    root.title("BUG")
+    root.geometry('300x300')
+    l1 = Label(root, text="BUG")
+    l1.pack()
+    messagebox.askokcancel('来BUG了', '去改BUG吧')
+    root.mainloop()
 
 
 def mail():
     """command-line interface"""
     arguments = docopt(__doc__)
     status_l = arguments.get('-l')
+    ISOTIMEFORMAT ='%Y-%m-%d %X'
+
+
     while True:
+        print('获取时间:' , time.strftime( ISOTIMEFORMAT, time.localtime() ))
         getstatus(status_l)
         time.sleep(300)
 
