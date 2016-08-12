@@ -17,7 +17,6 @@ def initTable(threshold=140):
     return table
 
 
-
 im = Image.open('Captcha.jpg')
 
 

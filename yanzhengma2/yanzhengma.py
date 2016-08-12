@@ -16,11 +16,11 @@ def initTable(threshold=140):
 
 
 
-im = Image.open('Captcha.jpg')
+im = Image.open('./Captcha.jpg')
 
 
-im = im.convert('L')
-binaryImage = im.point(initTable(),'1')
+#im = im.convert('L')
+#binaryImage = im.point(initTable(),'1')
 #binaryImage.show()
 
-print(pytesseract.image_to_string(binaryImage , config='-psm 7'))
+print(pytesseract.image_to_string(im , config='-psm 7'))

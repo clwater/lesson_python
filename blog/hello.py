@@ -8,6 +8,9 @@ from wtforms import StringField, SubmitField
 from wtforms.validators import Required
 from flask import Flask, render_template, session, redirect, url_for , flash
 
+from flask.ext.sqlalchemy import SQLAlchemy
+
+basedir = os.path.abspath(os.path.dirname(__file__))
 app = Flask(__name__)
 bootstrap = Bootstrap(app)
 app.config['SECRET_KEY'] = 'hard to gues string'
