@@ -5,7 +5,7 @@ from django.http import Http404
 from .forms import CommentForm
 from django.shortcuts import render
 from .models import Blog
-
+from .models import Comment
 
 def get_blogs(request):
     ctx = {
@@ -28,7 +28,6 @@ def get_detail(request, blog_id):
             cleaned_data = form.cleaned_data
             cleaned_data['blog'] = blog
             Comment.objects.create(**cleaned_data)
-
     ctx = {
         'blog': blog,
         'comments': blog.comment_set.all().order_by('-created'),
