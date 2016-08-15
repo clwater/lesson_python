@@ -7,6 +7,17 @@ from django.shortcuts import render
 from .models import Blog
 from .models import Comment
 
+
+def get_home(request):
+    return render(request , 'Home.html')
+
+def get_blog(request):
+    return render(request , 'Blog.html')
+
+def get_contact(request):
+    return render(request , 'Contact.html')
+
+
 def get_blogs(request):
     ctx = {
         'blogs': Blog.objects.all().order_by('-created')
