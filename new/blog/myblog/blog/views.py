@@ -13,7 +13,7 @@ def get_home(request):
 
 def get_blog(request):
     ctx = {
-        'blogs': Blog.objects.all().order_by('-created')
+        'blogs': Blog.objects.all().order_by('-created')[0:1]
     }
     return render(request , 'Blog.html' , ctx)
 
