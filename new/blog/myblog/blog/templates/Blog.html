@@ -7,6 +7,17 @@
     <link rel="stylesheet" href="http://apps.bdimg.com/libs/bootstrap/3.3.0/css/bootstrap.min.css">
     <script src="http://apps.bdimg.com/libs/jquery/2.1.1/jquery.min.js"></script>
     <script src="http://apps.bdimg.com/libs/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+      <style>
+        .blog {
+            padding: 20px 0px;
+        }
+        .blog .info span {
+            padding-right: 10px;
+        }
+        .blog .summary {
+            padding-top: 20px;
+        }
+    </style>
 </head>
 <body>
         <div style="background:url(https://raw.githubusercontent.com/clwater/ExternalFile/master/img/blog_other_back.jpg); height: 600px; position: relative">
@@ -28,5 +39,31 @@
              </div>
 
         </div>
+
+
+            <div class="container" style="padding: 50px">
+                <div class="col-md-8">
+                        {% for blog in blogs %}
+                            <div class="blog-box">
+                                <div class="title">
+                                    <a href="{% url 'blog_get_detail' blog.id  %}"><h2>{{ blog.title }}</h2></a>
+                                </div>
+                                <div class="info">
+                                    <span class="category" style="color: #ff9900;">{{ blog.category.name }}</span>
+                                    <span class="author" style="color: #4a86e8">{{ blog.author }}</span>
+                                    <span class="created" style="color: #6aa84f">{{ blog.created|date:"Y-m-d H:i" }}</span>
+                                </div>
+                                <div class="blog-content content-generic-body">
+                                    {{ blog.content|slice:"30" }}
+                                </div>
+                            </div>
+                        {% endfor %}
+                    </div>
+
+
+            </div>
+
+            <div class="col-md-4">
+                </div>
 </body>
 </html>

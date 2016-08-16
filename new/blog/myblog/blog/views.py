@@ -12,7 +12,10 @@ def get_home(request):
     return render(request , 'Home.html')
 
 def get_blog(request):
-    return render(request , 'Blog.html')
+    ctx = {
+        'blogs': Blog.objects.all().order_by('-created')
+    }
+    return render(request , 'Blog.html' , ctx)
 
 def get_contact(request):
     return render(request , 'Contact.html')
