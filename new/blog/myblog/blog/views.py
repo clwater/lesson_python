@@ -17,6 +17,9 @@ def get_blog(request):
 def get_contact(request):
     return render(request , 'Contact.html')
 
+def get_book(request):
+    return render(request , 'Book.html')
+
 
 def get_blogs(request):
     ctx = {
