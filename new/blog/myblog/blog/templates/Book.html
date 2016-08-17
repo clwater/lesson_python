@@ -35,7 +35,7 @@
                         {% for book in books %}
                             <div class="" >
                                 <div class="" style="">
-                                    <a href="{% url 'blog_get_detail' book.id  %}"><h2>{{ book.title }}</h2></a>
+                                    <a href="{% url 'book_get_detail' book.id  %}"><h2>{{ book.title }}</h2></a>
                                 </div>
                                 <div class="h4">
                                     <span style="color: #6aa84f">{{ book.created|date:"Y-m-d  H:i" }}</span>

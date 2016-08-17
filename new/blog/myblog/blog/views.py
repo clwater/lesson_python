@@ -2,7 +2,7 @@
 
 # Create your views here.
 from django.http import Http404
-from .forms import CommentForm
+from .forms import *
 from django.shortcuts import render
 from .models import *
 import math
@@ -73,10 +73,32 @@ def blog_get_detail(request, blog_id):
         if form.is_valid():
             cleaned_data = form.cleaned_data
             cleaned_data['blog'] = blog
-            Comment.objects.create(**cleaned_data)
+            Blog_Comment.objects.create(**cleaned_data)
     ctx = {
         'blog': blog,
-        'comments': blog.comment_set.all().order_by('-created'),
+        'comments': blog.blog_comment_set.all().order_by('-created'),
         'form': form
     }
-    return render(request, 'blog-detail.html', ctx)
+    return render(request, 'detail_blog.html', ctx)
+
+
+def book_get_detail(request, book_id):
+    try:
+        book = Book.objects.get(id=book_id)
+    except Book.DoesNotExist:
+        raise Http404
+
+    if request.method == 'GET':
+        form = CommentForm()
+    else:
+        form = CommentForm(request.POST)
+        if form.is_valid():
+            cleaned_data = form.cleaned_data
+            cleaned_data['book'] = book
+            Book_Comment.objects.create(**cleaned_data)
+    ctx = {
+        'book': book,
+        'comments': book.book_comment_set.all().order_by('-created'),
+        'form': form
+    }
+    return render(request, 'detail_book.html', ctx)

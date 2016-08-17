@@ -40,12 +40,25 @@ class Book(models.Model):
     created = models.DateTimeField('发布时间', auto_now_add=True)
     category = models.ForeignKey(Category, verbose_name='分类')
 
-class Comment(models.Model):
+class Blog_Comment(models.Model):
     """
-    评论
+    博客评论
     """
 
     blog = models.ForeignKey(Blog, verbose_name='博客')
+
+    name = models.CharField('称呼', max_length=16)
+    email = models.EmailField('邮箱')
+    content = models.CharField('内容', max_length=140)
+
+    created = models.DateTimeField('发布时间', auto_now_add=True)
+
+class Book_Comment(models.Model):
+    """
+    图书评论
+    """
+
+    book = models.ForeignKey(Book, verbose_name='图书')
 
     name = models.CharField('称呼', max_length=16)
     email = models.EmailField('邮箱')
