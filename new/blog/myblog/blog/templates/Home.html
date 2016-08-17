@@ -24,13 +24,15 @@
                     <div>
                         <ul class="nav navbar-nav navbar-right ">
                             <li class="active"><a href="/">HOME</a></li>
-                            <li><a href="/Blog">BLOG</a></li>
+                            <li><a href="{% url 'blog_get_blogs' '1' %}">BLOG</a></li>
                             <li><a href="/Book">BOOK</a></li>
                             <li><a href="/Contact">CONTACT</a></li>
                         </ul>
                     </div>
                 </nav>
             </div>
+
+
 
 
             <div id="home_top_shandow" style="background-image: url(//dannysite.oss-cn-hongkong.aliyuncs.com/dcom/static/v5/images/home/cover.png); background-repeat: repeat; margin-top: 20px">

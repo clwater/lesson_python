@@ -6,14 +6,28 @@ from .forms import CommentForm
 from django.shortcuts import render
 from .models import Blog
 from .models import Comment
+import math
 
 
 def get_home(request):
+    request.session['max_blogs'] = Blog.objects.all().count()
     return render(request , 'Home.html')
 
-def get_blog(request):
+def get_blog(request , pa_id=1):
+    pa_id = int(pa_id)
+    choose = pa_id
+    min_id  =  (pa_id - 1 ) * 20
+    max_id = pa_id * 20
+
+
+    max_blogs = request.session.get('max_blogs', default='0')
+    max_blogs = range(1 ,math.ceil(max_blogs / 20.0) + 1)
+
+
     ctx = {
-        'blogs': Blog.objects.all().order_by('-created')[0:1]
+        'blogs': Blog.objects.all().order_by('-created')[min_id:max_id],
+        'max_blogs' : max_blogs,
+        'choose' : choose,
     }
     return render(request , 'Blog.html' , ctx)
 
@@ -24,11 +38,11 @@ def get_book(request):
     return render(request , 'Book.html')
 
 
-def get_blogs(request):
-    ctx = {
-        'blogs': Blog.objects.all().order_by('-created')
-    }
-    return render(request, 'blog-list.html', ctx)
+# def get_blogs(request):
+#     ctx = {
+#         'blogs': Blog.objects.all().order_by('-created')
+#     }
+#     return render(request, 'blog-list.html', ctx)
 
 
 def get_detail(request, blog_id):
