@@ -2,543 +2,208 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="961a4c7e-821e-4810-b08d-22464d44bb80" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/backgrounds/changelist-results.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/backgrounds/loading-small.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/backgrounds/messagelist.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/backgrounds/nav-grabber.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/backgrounds/ui-sortable-placeholder.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons-s846f870921.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons-small-scbbb475e49.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons-small/add-link.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons-small/add-link_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons-small/change-link.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons-small/change-link_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons-small/delete-link.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons-small/filter-choice-selected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons-small/link-external.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons-small/link-external_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons-small/link-internal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons-small/link-internal_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons-small/sort-remove.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/add-another.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/add-another_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/back-link.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/back-link_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/breadcrumbs-rtl.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/breadcrumbs-rtl_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/breadcrumbs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/breadcrumbs_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/date-hierarchy-back-rtl.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/date-hierarchy-back-rtl_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/date-hierarchy-back.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/date-hierarchy-back_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/datepicker.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/datepicker_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/datetime-now.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/datetime-now_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/form-select.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/object-tools-add-link.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/object-tools-viewsite-link.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/pulldown-handler.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/pulldown-handler_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/pulldown-handler_selected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/related-lookup-m2m.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/related-lookup-m2m_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/related-lookup.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/related-lookup_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/related-remove.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/related-remove_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/searchbox.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/selector-add-m2m-horizontal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/selector-add-m2m-horizontal_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/selector-add-m2m-vertical.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/selector-add-m2m-vertical_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/selector-filter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/selector-remove-m2m-horizontal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/selector-remove-m2m-horizontal_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/selector-remove-m2m-vertical.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/selector-remove-m2m-vertical_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/sort-remove.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/sort-remove_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/sorted-ascending.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/sorted-descending.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/status-no.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/status-unknown.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/status-yes.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/th-ascending.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/th-descending.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/timepicker.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/timepicker_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/tools-add-handler.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/tools-add-handler_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/tools-arrow-down-handler.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/tools-arrow-down-handler_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/tools-arrow-up-handler.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/tools-arrow-up-handler_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/tools-close-handler.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/tools-close-handler_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/tools-delete-handler-predelete.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/tools-delete-handler.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/tools-delete-handler_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/tools-drag-handler.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/tools-drag-handler_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/tools-open-handler.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/tools-open-handler_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/tools-remove-handler.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/tools-remove-handler_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/tools-trash-handler.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/tools-trash-handler_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/tools-trash-list-toggle-handler.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/tools-trash-list-toggle-handler_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/tools-viewsite-link.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/tools-viewsite-link_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/ui-datepicker-next.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/ui-datepicker-next_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/ui-datepicker-prev.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/images/icons/ui-datepicker-prev_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/img/admin/arrow-down.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/img/admin/arrow-up.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/jquery/jquery-2.1.4.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/jquery/ui/images/ui-bg_diagonals-thick_18_b81900_40x40.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/jquery/ui/images/ui-bg_diagonals-thick_20_666666_40x40.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/jquery/ui/images/ui-bg_flat_10_000000_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/jquery/ui/images/ui-bg_glass_100_f6f6f6_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/jquery/ui/images/ui-bg_glass_100_fdf5ce_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/jquery/ui/images/ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/jquery/ui/images/ui-bg_gloss-wave_35_f6a828_500x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/jquery/ui/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/jquery/ui/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/jquery/ui/images/ui-icons_222222_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/jquery/ui/images/ui-icons_228ef1_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/jquery/ui/images/ui-icons_ef8c08_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/jquery/ui/images/ui-icons_ffd27a_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/jquery/ui/images/ui-icons_ffffff_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/jquery/ui/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/jquery/ui/jquery-ui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/jquery/ui/jquery-ui.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/jquery/ui/jquery-ui.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/jquery/ui/jquery-ui.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/jquery/ui/jquery-ui.structure.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/jquery/ui/jquery-ui.structure.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/jquery/ui/jquery-ui.theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/jquery/ui/jquery-ui.theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/js/grappelli.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/js/grappelli.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/js/jquery.grp_autocomplete_fk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/js/jquery.grp_autocomplete_generic.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/js/jquery.grp_autocomplete_m2m.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/js/jquery.grp_collapsible.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/js/jquery.grp_collapsible_group.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/js/jquery.grp_inline.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/js/jquery.grp_related_fk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/js/jquery.grp_related_generic.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/js/jquery.grp_related_m2m.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/js/jquery.grp_timepicker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/stylesheets/mueller/grid/output-rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/stylesheets/mueller/grid/output.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/stylesheets/mueller/screen.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/stylesheets/partials/custom/tinymce.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/stylesheets/rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/stylesheets/screen.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/changelog.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/examples/accessibility.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/examples/css/content.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/examples/css/word.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/examples/custom_formats.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/examples/full.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/examples/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/examples/lists/image_list.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/examples/lists/link_list.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/examples/lists/media_list.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/examples/lists/template_list.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/examples/media/logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/examples/media/logo_over.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/examples/media/sample.avi" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/examples/media/sample.dcr" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/examples/media/sample.flv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/examples/media/sample.mov" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/examples/media/sample.ram" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/examples/media/sample.rm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/examples/media/sample.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/examples/menu.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/examples/simple.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/examples/skins.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/examples/templates/layout1.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/examples/templates/snippet1.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/examples/word.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/langs/en.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/license.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advhr/css/advhr.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advhr/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advhr/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advhr/js/rule.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advhr/langs/en_dlg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advhr/rule.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advimage/css/advimage.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advimage/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advimage/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advimage/image.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advimage/img/sample.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advimage/js/image.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advimage/langs/en_dlg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advimage_orig/css/advimage.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advimage_orig/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advimage_orig/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advimage_orig/image.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advimage_orig/img/sample.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advimage_orig/js/image.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advimage_orig/langs/en_dlg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advlink/css/advlink.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advlink/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advlink/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advlink/js/advlink.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advlink/langs/en_dlg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advlink/link.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advlink_orig/css/advlink.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advlink_orig/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advlink_orig/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advlink_orig/js/advlink.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advlink_orig/langs/en_dlg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advlink_orig/link.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advlist/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/advlist/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/autolink/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/autolink/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/autoresize/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/autoresize/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/autosave/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/autosave/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/bbcode/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/bbcode/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/contextmenu/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/contextmenu/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/directionality/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/directionality/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/emotions/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/emotions/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/emotions/emotions.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-cool.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-cry.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-embarassed.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-foot-in-mouth.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-frown.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-innocent.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-kiss.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-laughing.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-money-mouth.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-sealed.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-surprised.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-tongue-out.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-undecided.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-wink.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-yell.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/emotions/js/emotions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/emotions/langs/en_dlg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/example/dialog.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/example/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/example/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/example/img/example.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/example/js/dialog.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/example/langs/en.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/example/langs/en_dlg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/example_dependency/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/example_dependency/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/fullpage/css/fullpage.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/fullpage/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/fullpage/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/fullpage/fullpage.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/fullpage/js/fullpage.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/fullpage/langs/en_dlg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/fullscreen/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/fullscreen/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/fullscreen/fullscreen.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/grappelli/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/grappelli/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/grappelli/img/show_advanced.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/grappelli/img/visualchars.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/grappelli/langs/cs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/grappelli/langs/de.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/grappelli/langs/en.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/grappelli/langs/fr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/grappelli/langs/pl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/grappelli/langs/ru.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/grappelli_contextmenu/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/grappelli_contextmenu/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/grappelli_contextmenu/langs/cs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/grappelli_contextmenu/langs/de.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/grappelli_contextmenu/langs/en.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/grappelli_contextmenu/langs/fr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/grappelli_contextmenu/langs/pl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/grappelli_contextmenu/langs/ru.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/iespell/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/iespell/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/inlinepopups/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/inlinepopups/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/alert.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/button.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/buttons.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/confirm.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/corners.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/horizontal.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/vertical.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/window.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/inlinepopups/template.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/insertdatetime/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/insertdatetime/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/layer/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/layer/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/legacyoutput/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/legacyoutput/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/lists/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/lists/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/media/css/media.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/media/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/media/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/media/js/embed.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/media/js/media.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/media/langs/en_dlg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/media/media.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/media/moxieplayer.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/media_orig/css/media.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/media_orig/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/media_orig/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/media_orig/js/embed.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/media_orig/js/media.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/media_orig/langs/en_dlg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/media_orig/media.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/media_orig/moxieplayer.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/nonbreaking/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/nonbreaking/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/noneditable/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/noneditable/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/pagebreak/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/pagebreak/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/paste/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/paste/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/paste/js/pastetext.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/paste/js/pasteword.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/paste/langs/en_dlg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/paste/pastetext.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/paste/pasteword.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/paste_orig/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/paste_orig/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/paste_orig/js/pastetext.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/paste_orig/js/pasteword.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/paste_orig/langs/en_dlg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/paste_orig/pastetext.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/paste_orig/pasteword.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/preview/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/preview/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/preview/example.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/preview/jscripts/embed.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/preview/preview.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/print/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/print/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/save/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/save/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/searchreplace/css/searchreplace.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/searchreplace/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/searchreplace/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/searchreplace/js/searchreplace.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/searchreplace/langs/en_dlg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/searchreplace/searchreplace.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/searchreplace_orig/css/searchreplace.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/searchreplace_orig/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/searchreplace_orig/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/searchreplace_orig/js/searchreplace.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/searchreplace_orig/langs/en_dlg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/searchreplace_orig/searchreplace.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/spellchecker/css/content.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/spellchecker/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/spellchecker/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/spellchecker/img/wline.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/style/css/props.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/style/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/style/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/style/js/props.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/style/langs/en_dlg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/style/props.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/style/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/tabfocus/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/tabfocus/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/table/cell.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/table/css/cell.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/table/css/row.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/table/css/table.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/table/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/table/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/table/js/cell.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/table/js/merge_cells.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/table/js/row.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/table/js/table.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/table/langs/en_dlg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/table/merge_cells.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/table/row.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/table/table.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/template/blank.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/template/css/template.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/template/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/template/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/template/js/template.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/template/langs/en_dlg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/template/template.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/template_orig/blank.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/template_orig/css/template.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/template_orig/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/template_orig/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/template_orig/js/template.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/template_orig/langs/en_dlg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/template_orig/template.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/visualblocks/css/visualblocks.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/visualblocks/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/visualblocks/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/visualchars/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/visualchars/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/wordcount/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/wordcount/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/abbr.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/acronym.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/attributes.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/cite.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/css/attributes.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/css/popup.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/del.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/editor_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/editor_plugin_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/ins.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/js/abbr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/js/acronym.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/js/attributes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/js/cite.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/js/del.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/js/element_common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/js/ins.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/langs/en_dlg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/about.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/anchor.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/charmap.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/color_picker.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/editor_template.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/editor_template_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/image.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/img/colorpicker.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/img/flash.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/img/icons.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/img/iframe.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/img/pagebreak.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/img/quicktime.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/img/realmedia.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/img/shockwave.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/img/trans.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/img/video.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/img/windowsmedia.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/js/about.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/js/anchor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/js/charmap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/js/color_picker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/js/image.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/js/link.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/js/source_editor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/langs/en.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/langs/en_dlg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/shortcuts.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/content.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/dialog.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/img/buttons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/img/items.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/img/menu_arrow.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/img/menu_check.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/img/progress.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/img/tabs.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/ui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/content.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/content_base.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/content_documentstructure.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/content_documentstructure_cs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/content_documentstructure_de.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/content_documentstructure_en.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/content_documentstructure_pl.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/content_grid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/content_typography.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/customized.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/dialog.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/blockquote.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/bold.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/bullist.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/charmap.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/cleanup.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/code.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/fullscreen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/image.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/italic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/justifycenter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/justifyfull.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/justifyleft.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/justifyright.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/link.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/media.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/numlist.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/pasteword.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/redo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/show_advanced.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/table.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/table_cell_props.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/table_col_after.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/table_col_before.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/table_delete_col.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/table_delete_row.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/table_merge_cells.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/table_row_after.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/table_row_before.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/table_row_props.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/table_split_cells.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/template.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/underline.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/undo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/unlink.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/buttons/visualchars.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/customized/button_pagebreak.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/customized/pagebreak.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/icons/icon-fb_show-hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/icons/icon-fb_show.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/icons/icon-mceResize.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/img/menu/icon-mceOpen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/grappelli/ui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/highcontrast/content.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/highcontrast/dialog.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/highcontrast/ui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/o2k7/content.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/o2k7/dialog.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/o2k7/img/button_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/o2k7/img/button_bg_black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/o2k7/img/button_bg_silver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/o2k7/ui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/o2k7/ui_black.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/skins/o2k7/ui_silver.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/source_editor.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/simple/editor_template.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/simple/editor_template_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/simple/img/icons.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/simple/langs/en.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/simple/skins/default/content.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/simple/skins/default/ui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/simple/skins/o2k7/content.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/simple/skins/o2k7/img/button_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/themes/simple/skins/o2k7/ui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/tiny_mce.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/tiny_mce_popup.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/tiny_mce_src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/utils/editable_selects.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/utils/form_utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/utils/mctabs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce/jscripts/tiny_mce/utils/validate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/grappelli/tinymce_setup/tinymce_setup.js" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/0.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/10.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/100.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/101.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/102.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/103.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/104.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/105.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/106.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/107.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/108.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/109.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/11.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/110.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/111.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/112.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/113.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/114.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/115.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/116.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/117.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/118.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/119.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/12.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/120.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/121.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/122.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/123.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/124.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/125.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/126.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/127.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/128.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/129.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/13.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/130.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/131.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/132.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/133.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/134.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/14.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/15.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/17.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/18.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/19.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/20.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/21.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/22.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/23.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/24.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/25.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/26.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/27.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/28.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/29.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/30.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/31.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/32.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/33.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/34.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/35.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/36.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/37.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/38.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/39.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/40.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/41.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/42.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/43.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/44.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/45.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/46.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/47.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/48.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/49.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/50.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/51.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/52.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/53.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/54.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/55.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/56.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/57.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/58.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/59.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/6.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/60.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/61.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/62.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/63.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/64.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/65.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/66.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/67.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/68.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/69.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/7.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/70.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/71.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/72.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/73.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/74.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/75.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/76.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/77.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/78.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/79.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/8.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/80.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/81.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/82.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/83.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/84.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/85.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/86.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/87.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/88.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/89.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/9.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/90.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/91.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/92.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/93.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/94.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/95.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/96.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/97.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/98.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/99.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/static.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/filemanager/images/file-16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/filemanager/images/file-64.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/filemanager/images/folder-16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/filemanager/images/folder-64.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/filemanager/images/go-up.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/image/images/align_left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/image/images/align_right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/image/images/align_top.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/image/images/refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/multiimage/images/image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/multiimage/images/select-files-en.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/multiimage/images/select-files-zh_CN.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/multiimage/images/swfupload.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/themes/common/anchor.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/themes/common/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/themes/common/flash.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/themes/common/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/themes/common/media.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/themes/common/rm.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/themes/default/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/themes/default/default.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/themes/qq/editor.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/kindeditor-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/kindeditor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/lang/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/lang/zh_CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/lang/zh_TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/anchor/anchor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/baidumap/baidumap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/baidumap/map.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/clearhtml/clearhtml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/code/code.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/code/prettify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/code/prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/emoticons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/filemanager/filemanager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/flash/flash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/image/image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/insertfile/insertfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/lineheight/lineheight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/link/link.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/map/map.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/map/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/media/media.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/multiimage/multiimage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/pagebreak/pagebreak.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/plainpaste/plainpaste.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/preview/preview.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/quickformat/quickformat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/table/table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/template/html/1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/template/html/2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/template/html/3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/template/template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/wordpaste/wordpaste.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/themes/default/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/themes/qq/qq.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/themes/simple/simple.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myblog/db.sqlite3" afterPath="$PROJECT_DIR$/myblog/db.sqlite3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myblog/blog/admin.py" afterPath="$PROJECT_DIR$/myblog/blog/admin.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myblog/myblog/settings.py" afterPath="$PROJECT_DIR$/myblog/myblog/settings.py" />
     </list>
     <ignored path="blog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -570,19 +235,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myblog/blog/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1500">
-              <caret line="100" column="30" selection-start-line="100" selection-start-column="30" selection-end-line="100" selection-end-column="30" />
-              <folding>
-                <element signature="e#28#59#0" expanded="true" />
-                <marker date="1471431513000" expanded="true" signature="1321:1477" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myblog/blog/forms.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -606,11 +258,21 @@
       <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myblog/blog/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="90">
+              <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ar.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/lang/ar.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -657,8 +319,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/myblog/myblog/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="132" column="0" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
+            <state relative-caret-position="310">
+              <caret line="131" column="0" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -775,8 +437,9 @@
         <option value="$PROJECT_DIR$/myblog/blog/templates/Book.html" />
         <option value="$PROJECT_DIR$/myblog/blog/templates/Contact.html" />
         <option value="$PROJECT_DIR$/myblog/static/js/editor/kindeditor-4.1.1/config.js" />
-        <option value="$PROJECT_DIR$/myblog/blog/admin.py" />
+        <option value="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/config.js" />
         <option value="$PROJECT_DIR$/myblog/myblog/settings.py" />
+        <option value="$PROJECT_DIR$/myblog/blog/admin.py" />
       </list>
     </option>
   </component>
@@ -887,6 +550,36 @@
               <option name="myItemId" value="static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="deitor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kindeditor-4.1.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myblog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -919,6 +612,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/myblog/static/js/deitor" />
       <recent name="$PROJECT_DIR$/myblog/static/js/editor" />
       <recent name="$PROJECT_DIR$/myblog/blog/templates" />
       <recent name="$PROJECT_DIR$/myblog/myblog" />
@@ -1232,9 +926,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HelloWorld/HelloWorld/urls.py" />
-    <entry file="file://$PROJECT_DIR$/HelloWorld/HelloWorld/View.py" />
-    <entry file="file://$PROJECT_DIR$/blog/manage.py" />
     <entry file="file://$PROJECT_DIR$/blog/blog/settings.py" />
     <entry file="file://$PROJECT_DIR$/blog/blog/wsgi.py" />
     <entry file="file://$PROJECT_DIR$/blog/blog_app/__init__.py" />
@@ -1513,6 +1204,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/myblog/blog/templates/Contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myblog/static/js/editor/kindeditor-4.1.1/lang/ar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myblog/static/js/editor/kindeditor-4.1.1/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/lang/ar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/myblog/blog/templates/Book.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -1546,40 +1283,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myblog/blog/templates/Contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myblog/static/js/editor/kindeditor-4.1.1/lang/ar.js">
+    <entry file="file://$PROJECT_DIR$/lib/python3.5/site-packages/django/contrib/admin/decorators.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myblog/static/js/editor/kindeditor-4.1.1/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myblog/blog/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="90">
+          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
@@ -1588,8 +1303,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/myblog/myblog/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="132" column="0" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
+        <state relative-caret-position="310">
+          <caret line="131" column="0" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
           <folding />
         </state>
       </provider>
