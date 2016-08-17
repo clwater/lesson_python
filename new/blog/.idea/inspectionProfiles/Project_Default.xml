@@ -17,6 +17,8 @@
           <option value="HelloWord.HelloWord.urls.HelloWorld" />
           <option value="myblog.myblog.urls.*" />
           <option value="myblog.blog.views.*" />
+          <option value="myblog.blog.admin.kindeditor" />
+          <option value="myblog.blog.admin.*" />
         </list>
       </option>
     </inspection_tool>
