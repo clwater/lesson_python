@@ -7,19 +7,22 @@
     <link rel="stylesheet" href="http://apps.bdimg.com/libs/bootstrap/3.3.0/css/bootstrap.min.css">
     <script src="http://apps.bdimg.com/libs/jquery/2.1.1/jquery.min.js"></script>
     <script src="http://apps.bdimg.com/libs/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="css/labs.css">
+    <link id="scrollUpTheme" rel="stylesheet" href="css/themes/tab.css?1.1">
+
 </head>
 <body >
         <div style="background:url(https://raw.githubusercontent.com/clwater/ExternalFile/master/img/blog_other_back.jpg); height: 600px; position: relative">
                    <nav class="navbar " role="navigation" style="padding-left: 50px ;padding-right: 50px ; padding-top: 10px; position: relative ">
                        <div class="navbar-header .navbar-right">
-                           <a class="navbar-brand" >水蕴茶社</a>
+                           <span class="navbar-brand" style="color: #000000 ; font-size: 2em">水蕴茶社</span>
                        </div>
                        <div>
                           <ul class="nav navbar-nav navbar-right ">
-                             <li><a href="/">HOME</a></li>
+                             <li><a href="/" style="color: #2c2c2c" >HOME</a></li>
                              <li class="active"><a href="{% url 'blog_get_blogs' '1' %}">BLOG</a></li>
-                              <li><a href="/Book">BOOK</a></li>
-                             <li><a href="/Contact">CONTACT</a></li>
+                              <li><a href="/Book" style="color: #2c2c2c" >BOOK</a></li>
+                             <li><a href="/Contact" style="color: #2c2c2c" >CONTACT</a></li>
                           </ul>
                        </div>
                     </nav>
@@ -82,6 +85,8 @@
                     </div>
                 </div>
 
+
+                <a id="scrollUp" href="#top" style="display: block; position: fixed; z-index: 2147483647; background-image: url(); ">Scroll to top</a>
 
             </div>
 
