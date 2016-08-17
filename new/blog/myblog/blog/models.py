@@ -30,6 +30,15 @@ class Blog(models.Model):
     category = models.ForeignKey(Category, verbose_name='分类')
     tags = models.ManyToManyField(Tag, verbose_name='标签')
 
+class Book(models.Model):
+    """
+    书
+    """
+
+    title = models.CharField('标题', max_length=32)
+    content = models.TextField('正文')
+    created = models.DateTimeField('发布时间', auto_now_add=True)
+    category = models.ForeignKey(Category, verbose_name='分类')
 
 class Comment(models.Model):
     """

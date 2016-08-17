@@ -10,7 +10,8 @@ urlpatterns = [
     url(r'^Blog/(\d+)/$' , get_blog , name='blog_get_blogs'),
     url(r'^Blog' , get_blog , name='blog_get_blogs'),
     url(r'^Contact' , get_contact, name='Contact'),
-    url(r'^Book' , get_book, name='Book'),
-    url(r'^detail/(\d+)/$', get_detail, name='blog_get_detail'),
+    url(r'^Book' , get_book, name='blog_get_books'),
+    url(r'^Book/(\d+)/$' , get_book, name='blog_get_books'),
+    url(r'^blog_detail/(\d+)/$', blog_get_detail, name='blog_get_detail'),
 ]
 

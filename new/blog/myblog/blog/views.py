@@ -4,21 +4,37 @@
 from django.http import Http404
 from .forms import CommentForm
 from django.shortcuts import render
-from .models import Blog
-from .models import Comment
+from .models import *
 import math
 
 
 def get_home(request):
     request.session['max_blogs'] = Blog.objects.all().count()
+    request.session['max_books'] = Book.objects.all().count()
     return render(request , 'Home.html')
+
+def get_book(request , pa_id=1):
+    pa_id = int(pa_id)
+    choose = pa_id
+    min_id = (pa_id - 1) * 20
+    max_id = pa_id * 20
+
+    max_books = request.session.get('max_books', default='0')
+    max_books = range(1, math.ceil(max_books / 20.0) + 1)
+
+    ctx = {
+        'books': Book.objects.all().order_by('-created')[min_id:max_id],
+        'max_books': max_books,
+        'choose': choose,
+    }
+
+    return render(request , 'Book.html' , ctx)
 
 def get_blog(request , pa_id=1):
     pa_id = int(pa_id)
     choose = pa_id
     min_id  =  (pa_id - 1 ) * 20
     max_id = pa_id * 20
-
 
     max_blogs = request.session.get('max_blogs', default='0')
     max_blogs = range(1 ,math.ceil(max_blogs / 20.0) + 1)
@@ -34,8 +50,7 @@ def get_blog(request , pa_id=1):
 def get_contact(request):
     return render(request , 'Contact.html')
 
-def get_book(request):
-    return render(request , 'Book.html')
+
 
 
 # def get_blogs(request):
@@ -45,7 +60,7 @@ def get_book(request):
 #     return render(request, 'blog-list.html', ctx)
 
 
-def get_detail(request, blog_id):
+def blog_get_detail(request, blog_id):
     try:
         blog = Blog.objects.get(id=blog_id)
     except Blog.DoesNotExist:
