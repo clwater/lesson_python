@@ -34,7 +34,9 @@
             <span class="created" style="color: #6aa84f">{{ book.created|date:"Y-m-d H:i" }}</span>
         </div>
         <div class="summary">
+            <p>
             {{ book.content|markdown }}
+            </p>
         </div>
     </div>
     <div class="comment">

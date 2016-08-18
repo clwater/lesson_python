@@ -36,20 +36,22 @@
 
             <div class="container" style="padding-left: 15px">
 
-                <div class="col-md-9"  style="padding-top: 50px">
+                <div class="col-md-9"  style="padding-top: 50px ; ">
                         {% for blog in blogs %}
-                            <div class="" >
+                            <div class="" style="padding-top: 50px">
                                 <div class="" style="">
-                                    <a href="{% url 'blog_get_detail' blog.id  %}"><h2>{{ blog.title }}</h2></a>
+                                    <a href="{% url 'blog_get_detail' blog.id  %}" style="color:#151b42;"><h3>{{ blog.title }}</h3></a>
                                 </div>
-                                <div class="h4">
-                                    <span style="color: #6aa84f">{{ blog.created|date:"Y-m-d  H:i" }}</span>
-                                    <span>&nbsp;&nbsp;&nbsp;&nbsp;<b>/</b>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                                    <span class="author" style="color: #4a86e8">{{ blog.category.name }}</span>
+                                <div class="col-md-6">
+                                    <span style="color: #bec0bf">{{ blog.created|date:"Y-m-d  H:i" }}</span>
                                 </div>
-                                <!--<div class="">-->
-                                    <!--<p style=" word-break:break-all; word-wrap:break-word"> {{ blog.content|slice:"140" }}</p>-->
-                                <!--</div>-->
+                                <div class="col-md-6" style="text-align: right ; ">
+                                    {% for tag in blog.tags.all %}
+                                     <span class="" style="color: #c3c6c9 ; background-color: #fcfcfc; padding: 3px ; margin-left: 10px">
+                                            {{ tag.name }}
+                                    </span>
+                                     {% endfor %}
+                                </div>
 
                             </div>
                         {% endfor %}

@@ -33,18 +33,20 @@
             {% load markdown_deux_tags %}
                 <div class="col-md-9"  style="padding-top: 50px">
                         {% for book in books %}
-                            <div class="" >
+                            <div class="" style="padding-top: 50px">
                                 <div class="" style="">
-                                    <a href="{% url 'book_get_detail' book.id  %}"><h2>{{ book.title }}</h2></a>
+                                    <a href="{% url 'book_get_detail' book.id  %}" style="color:#151b42;"><h3>{{ book.title }}</h3></a>
                                 </div>
-                                <div class="h4">
-                                    <span style="color: #6aa84f">{{ book.created|date:"Y-m-d  H:i" }}</span>
-                                    <span>&nbsp;&nbsp;&nbsp;&nbsp;<b>/</b>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                                    <span class="author" style="color: #4a86e8">{{ book.category.name }}</span>
+                                <div class="col-md-6">
+                                    <span style="color: #bec0bf">{{ book.created|date:"Y-m-d  H:i" }}</span>
                                 </div>
-                                <!--<div class="">-->
-                                    <!--<p style=" word-break:break-all; word-wrap:break-word"> {{ book.content|slice:"500"|markdown }}</p>-->
-                                <!--</div>-->
+                                <div class="col-md-6" style="text-align: right ; ">
+                                    {% for tag in book.tags.all %}
+                                     <span class="" style="color: #c3c6c9 ; background-color: #fcfcfc; padding: 3px ; margin-left: 10px">
+                                            {{ tag.name }}
+                                    </span>
+                                     {% endfor %}
+                                </div>
 
                             </div>
                         {% endfor %}

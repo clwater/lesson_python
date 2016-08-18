@@ -17,7 +17,6 @@ urlpatterns = [
     url(r'^book_detail/(\d+)/$', book_get_detail, name='book_get_detail'),
 
     url(r'^test/' , test , name='test'),
-  #  url('^markdown/', django_markdown.urls),
 
 ]
 

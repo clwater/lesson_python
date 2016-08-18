@@ -2,214 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="961a4c7e-821e-4810-b08d-22464d44bb80" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myblog/blog/templates/test.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/kindeditor-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/kindeditor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/lang/ar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/lang/en.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/lang/zh_CN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/lang/zh_TW.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/license.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/anchor/anchor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/baidumap/baidumap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/baidumap/map.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/clearhtml/clearhtml.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/code/code.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/code/prettify.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/code/prettify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/emoticons.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/1.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/100.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/101.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/102.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/103.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/104.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/105.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/106.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/107.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/108.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/109.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/110.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/111.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/112.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/113.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/114.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/115.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/116.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/117.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/118.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/119.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/120.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/121.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/122.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/123.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/124.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/125.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/126.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/127.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/128.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/129.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/130.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/131.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/132.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/133.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/134.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/17.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/19.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/21.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/22.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/23.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/24.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/25.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/27.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/28.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/29.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/3.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/34.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/35.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/36.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/37.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/40.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/41.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/42.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/43.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/44.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/45.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/46.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/47.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/51.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/52.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/53.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/55.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/56.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/57.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/58.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/59.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/60.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/61.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/62.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/63.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/64.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/65.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/66.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/67.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/68.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/69.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/70.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/71.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/72.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/73.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/74.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/75.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/76.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/77.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/78.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/79.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/80.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/81.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/82.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/83.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/84.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/85.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/86.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/87.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/88.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/89.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/90.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/91.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/92.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/93.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/94.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/95.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/96.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/97.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/98.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/99.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/emoticons/images/static.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/filemanager/filemanager.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/filemanager/images/file-16.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/filemanager/images/file-64.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/filemanager/images/folder-16.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/filemanager/images/folder-64.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/filemanager/images/go-up.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/flash/flash.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/image/image.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/image/images/align_left.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/image/images/align_right.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/image/images/align_top.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/image/images/refresh.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/insertfile/insertfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/lineheight/lineheight.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/link/link.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/map/map.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/map/map.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/media/media.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/multiimage/images/image.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/multiimage/images/select-files-en.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/multiimage/images/select-files-zh_CN.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/multiimage/multiimage.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/pagebreak/pagebreak.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/plainpaste/plainpaste.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/preview/preview.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/quickformat/quickformat.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/table/table.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/template/html/1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/template/html/2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/template/html/3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/template/template.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/plugins/wordpaste/wordpaste.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/themes/common/anchor.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/themes/common/flash.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/themes/common/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/themes/common/media.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/themes/common/rm.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/themes/default/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/themes/default/default.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/themes/default/default.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/themes/qq/editor.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/themes/qq/qq.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/themes/simple/simple.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/xheditor/xheditor_emot/default/angry.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/xheditor/xheditor_emot/default/awkward.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/xheditor/xheditor_emot/default/bye.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/xheditor/xheditor_emot/default/crazy.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/xheditor/xheditor_emot/default/cry.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/xheditor/xheditor_emot/default/curse.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/xheditor/xheditor_emot/default/cute.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/xheditor/xheditor_emot/default/despise.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/xheditor/xheditor_emot/default/doubt.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/xheditor/xheditor_emot/default/envy.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/xheditor/xheditor_emot/default/fastcry.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/xheditor/xheditor_emot/default/knock.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/xheditor/xheditor_emot/default/laugh.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/xheditor/xheditor_emot/default/mad.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/xheditor/xheditor_emot/default/ohmy.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/xheditor/xheditor_emot/default/panic.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/xheditor/xheditor_emot/default/proud.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/xheditor/xheditor_emot/default/quiet.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/xheditor/xheditor_emot/default/sad.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/xheditor/xheditor_emot/default/shutup.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/xheditor/xheditor_emot/default/shy.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/xheditor/xheditor_emot/default/sleep.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/xheditor/xheditor_emot/default/smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/xheditor/xheditor_emot/default/struggle.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/xheditor/xheditor_emot/default/titter.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/xheditor/xheditor_emot/default/tongue.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/xheditor/xheditor_emot/default/wail.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/xheditor/xheditor_emot/default/wronged.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/xheditor/xheditor_plugins/multiupload/swfupload/swfupload.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myblog/static/xheditor/xheditor_skin/blank.gif" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myblog/db.sqlite3" afterPath="$PROJECT_DIR$/myblog/db.sqlite3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myblog/blog/admin.py" afterPath="$PROJECT_DIR$/myblog/blog/admin.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myblog/blog/models.py" afterPath="$PROJECT_DIR$/myblog/blog/models.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myblog/blog/templates/Blog.html" afterPath="$PROJECT_DIR$/myblog/blog/templates/Blog.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myblog/blog/templates/Book.html" afterPath="$PROJECT_DIR$/myblog/blog/templates/Book.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myblog/blog/templates/detail_blog.html" afterPath="$PROJECT_DIR$/myblog/blog/templates/detail_blog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myblog/blog/templates/Home.html" afterPath="$PROJECT_DIR$/myblog/blog/templates/Home.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myblog/blog/templates/detail_book.html" afterPath="$PROJECT_DIR$/myblog/blog/templates/detail_book.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myblog/blog/views.py" afterPath="$PROJECT_DIR$/myblog/blog/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myblog/myblog/settings.py" afterPath="$PROJECT_DIR$/myblog/myblog/settings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myblog/myblog/urls.py" afterPath="$PROJECT_DIR$/myblog/myblog/urls.py" />
     </list>
     <ignored path="blog.iws" />
@@ -245,8 +44,8 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myblog/blog/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1175">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="210">
+              <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
               <folding>
                 <element signature="e#28#59#0" expanded="true" />
               </folding>
@@ -257,20 +56,35 @@
       <file leaf-file-name="Blog.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myblog/blog/templates/Blog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="49" column="29" selection-start-line="49" selection-start-column="29" selection-end-line="51" selection-end-column="42" />
+            <state relative-caret-position="300">
+              <caret line="56" column="36" selection-start-line="39" selection-start-column="24" selection-end-line="56" selection-end-column="36" />
               <folding>
-                <marker date="1471501841000" expanded="false" signature="2818:2861" ph="..." />
+                <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="detail_blog.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="detail_blog.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myblog/blog/templates/detail_blog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="90">
+              <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="detail_book.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myblog/blog/templates/detail_book.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -279,10 +93,14 @@
       <file leaf-file-name="Book.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myblog/blog/templates/Book.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="46" selection-end-column="42" />
+            <state relative-caret-position="75">
+              <caret line="37" column="117" selection-start-line="37" selection-start-column="117" selection-end-line="37" selection-end-column="117" />
               <folding>
-                <marker date="1471501812000" expanded="false" signature="2706:2749" ph="..." />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -308,24 +126,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myblog/myblog/urls.py">
+      <file leaf-file-name="Home.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myblog/blog/templates/Home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-              <folding>
-                <element signature="e#1#33#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="108">
+              <caret line="89" column="32" selection-start-line="89" selection-start-column="32" selection-end-line="89" selection-end-column="32" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myblog/blog/models.py">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myblog/myblog/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="79" column="27" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="27" />
-              <folding />
+            <state relative-caret-position="285">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="e#1#33#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -363,23 +181,23 @@
         <option value="$PROJECT_DIR$/myblog/blog/templates/Welcome to DannySite.html" />
         <option value="$PROJECT_DIR$/myblog/blog/templates/blog-detail.html" />
         <option value="$PROJECT_DIR$/myblog/blog/templates/body_right.html" />
-        <option value="$PROJECT_DIR$/myblog/blog/templates/Home.html" />
         <option value="$PROJECT_DIR$/myblog/blog/templates/Contact.html" />
         <option value="$PROJECT_DIR$/myblog/static/js/editor/kindeditor-4.1.1/config.js" />
         <option value="$PROJECT_DIR$/myblog/static/js/deitor/kindeditor-4.1.1/config.js" />
         <option value="$PROJECT_DIR$/myblog/blog/admin.py" />
         <option value="$PROJECT_DIR$/myblog/blog/views.py" />
-        <option value="$PROJECT_DIR$/myblog/blog/models.py" />
-        <option value="$PROJECT_DIR$/myblog/myblog/urls.py" />
         <option value="$PROJECT_DIR$/myblog/blog/templatetags/__init___.py" />
         <option value="$PROJECT_DIR$/myblog/blog/templatetags/custom_markdown.py" />
         <option value="$PROJECT_DIR$/myblog/myblog/templagetags/custom_markdown.py" />
         <option value="$PROJECT_DIR$/myblog/blog/templates/test.html" />
         <option value="$PROJECT_DIR$/myblog/myblog/settings.py" />
-        <option value="$PROJECT_DIR$/myblog/blog/templates/detail_book.html" />
-        <option value="$PROJECT_DIR$/myblog/blog/templates/Book.html" />
-        <option value="$PROJECT_DIR$/myblog/blog/templates/Blog.html" />
         <option value="$PROJECT_DIR$/myblog/blog/templates/detail_blog.html" />
+        <option value="$PROJECT_DIR$/myblog/blog/models.py" />
+        <option value="$PROJECT_DIR$/myblog/myblog/urls.py" />
+        <option value="$PROJECT_DIR$/myblog/blog/templates/Blog.html" />
+        <option value="$PROJECT_DIR$/myblog/blog/templates/Book.html" />
+        <option value="$PROJECT_DIR$/myblog/blog/templates/detail_book.html" />
+        <option value="$PROJECT_DIR$/myblog/blog/templates/Home.html" />
       </list>
     </option>
   </component>
@@ -390,10 +208,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1289" />
-    <option name="y" value="248" />
-    <option name="width" value="1911" />
-    <option name="height" value="520" />
+    <option name="x" value="1284" />
+    <option name="y" value="304" />
+    <option name="width" value="1894" />
+    <option name="height" value="496" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -838,10 +656,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1289" y="248" width="1911" height="520" extended-state="0" />
-    <editor active="false" />
+    <frame x="1284" y="304" width="1894" height="496" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23970038" sideWeight="0.49061033" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24190065" sideWeight="0.49061033" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.49811321" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5040431" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991913" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -995,21 +813,6 @@
     <entry file="file://$PROJECT_DIR$/myblog/blog/templates/img/top.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myblog/blog/templates/Home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1980">
-          <caret line="133" column="0" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#div#1;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myblog/blog/templates/Contact.html">
@@ -1190,28 +993,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myblog/myblog/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-          <folding>
-            <element signature="e#1#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myblog/myblog/templagetags/__init___.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myblog/blog/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="79" column="27" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -1232,28 +1017,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myblog/blog/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1175">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#28#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myblog/blog/templates/templagetags/__init___.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myblog/blog/templates/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1266,38 +1033,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myblog/blog/templates/detail_book.html">
+    <entry file="file://$PROJECT_DIR$/myblog/blog/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+        <state relative-caret-position="210">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+          <folding>
+            <element signature="e#28#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myblog/blog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myblog/blog/templates/Book.html">
+    <entry file="file://$PROJECT_DIR$/myblog/myblog/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="46" selection-end-column="42" />
+        <state relative-caret-position="285">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
-            <marker date="1471501812000" expanded="false" signature="2706:2749" ph="..." />
+            <element signature="e#1#33#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myblog/blog/templates/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myblog/blog/templates/Blog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="49" column="29" selection-start-line="49" selection-start-column="29" selection-end-line="51" selection-end-column="42" />
+        <state relative-caret-position="300">
+          <caret line="56" column="36" selection-start-line="39" selection-start-column="24" selection-end-line="56" selection-end-column="36" />
           <folding>
-            <marker date="1471501841000" expanded="false" signature="2818:2861" ph="..." />
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myblog/blog/templates/Book.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="37" column="117" selection-start-line="37" selection-start-column="117" selection-end-line="37" selection-end-column="117" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myblog/blog/templates/detail_blog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="90">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myblog/blog/templates/detail_book.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myblog/blog/templates/Home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="89" column="32" selection-start-line="89" selection-start-column="32" selection-end-line="89" selection-end-column="32" />
           <folding />
         </state>
       </provider>
