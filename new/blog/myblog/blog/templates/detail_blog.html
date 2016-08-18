@@ -33,7 +33,7 @@
             <span class="author" style="color: #4a86e8">{{ blog.author }}</span>
             <span class="created" style="color: #6aa84f">{{ blog.created|date:"Y-m-d H:i" }}</span>
         </div>
-        <div class="summary">
+        <div class="summary" style="">
             {{ blog.content | markdown }}
         </div>
     </div>
@@ -41,7 +41,7 @@
         <div class="comments-display" style="padding-top: 20px;">
             <h3>评论</h3>
             {% for comment in comments %}
-                <div class="comment-field" style="padding-top: 10px;">
+                <div class="comment-field" style="padding-top: 10px; ">
                     {{ comment.name }} 说: {{ comment.content }}
                 </div>
             {% endfor %}
