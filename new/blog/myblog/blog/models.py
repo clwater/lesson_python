@@ -65,3 +65,16 @@ class Book_Comment(models.Model):
     content = models.CharField('内容', max_length=140)
 
     created = models.DateTimeField('发布时间', auto_now_add=True)
+
+class Article(models.Model):
+      pass
+
+
+# class Post(models.Model):
+#     category = models.ForeignKey(Category)
+#     title = models.CharField(max_length=60)
+#     body = models.TextField()
+#     date = models.DateTimeField(auto_now_add=True)
+#
+#     def __unicode__(self):
+#         return self.title

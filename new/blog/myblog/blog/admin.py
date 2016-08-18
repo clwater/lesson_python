@@ -5,3 +5,5 @@ from django.contrib import admin
 from .models import *
 
 admin.site.register([Category ,Tag , Blog , Book])
+
+# Register your models here.

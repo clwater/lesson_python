@@ -2,6 +2,7 @@
 from django.conf.urls import url
 from django.contrib import admin
 from blog.views import *
+#from django_markdown import urls
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
@@ -14,5 +15,9 @@ urlpatterns = [
     url(r'^Book/(\d+)/$' , get_book, name='blog_get_books'),
     url(r'^blog_detail/(\d+)/$', blog_get_detail, name='blog_get_detail'),
     url(r'^book_detail/(\d+)/$', book_get_detail, name='book_get_detail'),
+
+    url(r'^test/' , test , name='test'),
+  #  url('^markdown/', django_markdown.urls),
+
 ]
 

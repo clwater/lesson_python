@@ -17,6 +17,8 @@
 </head>
 <body>
 
+{% load markdown_deux_tags %}
+
 <div class="header">
     <span><a href="{% url 'blog_get_books' %}">book</a> - <a href="{% url 'book_get_detail' book.id %}">{{ book.title }}</a></span>
 </div>
@@ -32,7 +34,7 @@
             <span class="created" style="color: #6aa84f">{{ book.created|date:"Y-m-d H:i" }}</span>
         </div>
         <div class="summary">
-            {{ book.content }}
+            {{ book.content|markdown }}
         </div>
     </div>
     <div class="comment">

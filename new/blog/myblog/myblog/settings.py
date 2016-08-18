@@ -41,6 +41,9 @@ INSTALLED_APPS = [
 
 
     'blog',
+    #'django_markdown',
+    'markdown_deux',
+
 
 
 ]

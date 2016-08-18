@@ -59,6 +59,10 @@ def get_contact(request):
 #     }
 #     return render(request, 'blog-list.html', ctx)
 
+def test(request):
+
+    return render(request, 'test.html')
+
 
 def blog_get_detail(request, blog_id):
     try:

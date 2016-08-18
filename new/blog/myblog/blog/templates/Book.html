@@ -30,7 +30,7 @@
         </div>
 
           <div class="container" style="padding-left: 15px">
-
+            {% load markdown_deux_tags %}
                 <div class="col-md-9"  style="padding-top: 50px">
                         {% for book in books %}
                             <div class="" >
@@ -42,9 +42,9 @@
                                     <span>&nbsp;&nbsp;&nbsp;&nbsp;<b>/</b>&nbsp;&nbsp;&nbsp;&nbsp;</span>
                                     <span class="author" style="color: #4a86e8">{{ book.category.name }}</span>
                                 </div>
-                                <div class="">
-                                    <p style=" word-break:break-all; word-wrap:break-word"> {{ book.content|slice:"140" }}</p>
-                                </div>
+                                <!--<div class="">-->
+                                    <!--<p style=" word-break:break-all; word-wrap:break-word"> {{ book.content|slice:"500"|markdown }}</p>-->
+                                <!--</div>-->
 
                             </div>
                         {% endfor %}
