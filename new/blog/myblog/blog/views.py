@@ -100,6 +100,8 @@ def book_get_detail(request, book_id):
             cleaned_data = form.cleaned_data
             cleaned_data['book'] = book
             Book_Comment.objects.create(**cleaned_data)
+
+
     ctx = {
         'book': book,
         'comments': book.book_comment_set.all().order_by('-created'),

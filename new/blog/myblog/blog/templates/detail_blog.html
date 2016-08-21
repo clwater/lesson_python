@@ -2,67 +2,153 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>{{ blog.title }}</title>
+    <title>{{ book.title }}</title>
     <style>
-        .blog {
+        .book {
             padding: 20px 0px;
         }
-        .blog .info span {
+        .book .info span {
             padding-right: 10px;
         }
-        .blog .summary {
+        .book .summary {
             padding-top: 20px;
         }
     </style>
+
+    <link rel="stylesheet" href="http://apps.bdimg.com/libs/bootstrap/3.3.0/css/bootstrap.min.css">
 </head>
 <body>
 
-<div class="header">
-    <span><a href="{% url 'blog_get_blogs' %}">Blog</a> - <a href="{% url 'blog_get_detail' blog.id %}">{{ blog.title }}</a></span>
-</div>
+
+    <div style="background: url(https://raw.githubusercontent.com/clwater/ExternalFile/master/img/blog_other_back.jpg); height: 600px; position: relative">
+                   <nav class="navbar " role="navigation" style="padding-left: 50px ;padding-right: 50px ; padding-top: 10px; position: relative ">
+                       <div class="navbar-header .navbar-right">
+                           <span class="navbar-brand" style="color: #000000 ; font-size: 2em">水蕴茶社</span>
+                       </div>
+                       <div>
+                          <ul class="nav navbar-nav navbar-right ">
+                             <li ><a href="/" style="color: #2c2c2c" >HOME</a></li>
+                             <li class="active"><a href="/Blog" style="color: #2c2c2c"  >BLOG</a></li>
+                              <li ><a href="/Book">BOOK</a></li>
+                             <li><a href="/Contact" style="color: #2c2c2c" >CONTACT</a></li>
+                          </ul>
+                       </div>
+                    </nav>
+            <div style="position: absolute;    bottom: 60px;     width: 100%;    color: #FFF;    text-align: center;">
+                <p class="h1" style="text-align:center;">Blog</p>
+            </div>
+        </div>
+
+
 
 {% load markdown_deux_tags %}
 
+
 <div class="content">
-    <div class="blog">
-        <div class="title">
-            <a href="#"><h2>{{ blog.title }}</h2></a>
+    <div class="col-md-9" style="padding-left: 50px">
+        <div class="book">
+            <div class="title">
+                <a href="#" style="color: #41459b ; "><h2>{{ blog.title }}</h2></a>
+            </div>
+            <div class="info">
+                <span class="created" style="color: #6aa84f">{{ blog.created|date:"Y-m-d H:i" }}</span>
+                {% for tag in blog.tags.all %}
+                    <span class="" style="color: #c3c6c9 ; background-color: #fcfcfc; padding: 3px ; margin-left: 10px">
+                        {{ tag.name }}
+                    </span>
+                {% endfor %}
+            </div>
+            <div class="summary">
+                <p>
+                {{ blog.content|markdown }}
+                </p>
+            </div>
         </div>
-        <div class="info">
-            <span class="category" style="color: #ff9900;">{{ blog.category.name }}</span>
-            <span class="author" style="color: #4a86e8">{{ blog.author }}</span>
-            <span class="created" style="color: #6aa84f">{{ blog.created|date:"Y-m-d H:i" }}</span>
-        </div>
-        <div class="summary" style="">
-            {{ blog.content | markdown }}
-        </div>
-    </div>
-    <div class="comment">
-        <div class="comments-display" style="padding-top: 20px;">
-            <h3>评论</h3>
-            {% for comment in comments %}
-                <div class="comment-field" style="padding-top: 10px; ">
-                    {{ comment.name }} 说: {{ comment.content }}
-                </div>
-            {% endfor %}
-        </div>
-        <div class="comment-post" style="padding-top: 20px;">
-            <h3>提交评论</h3>
-            <form action="{% url 'blog_get_detail' blog.id %}" method="post">
-                {% csrf_token %}
-                {% for field in form %}
-                    <div class="input-field" style="padding-top: 10px">
-                        {{ field.label }}: {{ field }}
-                    </div>
-                    <div class="error" style="color: red;">
-                        {{ field.errors }}
+
+
+        <div style=" background-color: #000000; width: 100% ; height: 1px"></div>
+
+
+        <div class="comment">
+            <div class="comments-display" style="padding-top: 20px;">
+                <h3>COMMENTS</h3>
+                {% for comment in comments %}
+                    <div class="comment-field" style="padding-top: 10px; padding-left: 5px">
+                        <p style="color: #a0a0a0; padding-left: 5px">{{ comment.name }} </p>
+                        <p style="padding-left: 10px; ">{{ comment.content }}</p>
                     </div>
                 {% endfor %}
-                <button type="submit" style="margin-top: 10px">提交</button>
-            </form>
+            </div>
+
+
+            <div style=" background-color: #000000; width: 100% ; height: 1px; margin-top: 5px"></div>
+
+            <div class="comment-post" style="padding-top: 20px;padding-bottom: 20px">
+                <h3>WRITE COMMENTS</h3>
+                <form action="{% url 'blog_get_detail' blog.id %}" method="post">
+
+
+                    {% csrf_token %}
+
+                     Name <div class="input-field" style="padding-top: 10px;">
+                           {{ form.name }}
+                        </div>
+                        <div class="error" style="color: red;">
+                            {{ form.name.errors }}
+                        </div>
+
+                      Email <div class="input-field" style="padding-top: 10px ; ">
+                            {{ form.email }}
+                        </div>
+                        <div class="error" style="color: red;">
+                            {{ form.email.errors }}
+                        </div>
+
+                      Comment<div class="input-field" style="padding-top: 10px ; ">
+                             {{ form.content }}
+                        </div>
+                        <div class="error" style="color: red;">
+                            {{ form.content.errors }}
+                        </div>
+
+                    <button type="submit" style="margin-top: 10px; border: 0">提交</button>
+                </form>
+            </div>
+
+
+
         </div>
-    </div>
+        </div>
+
+    <div class="col-md-3" style="padding-top: 60px ; padding-left: 20px ;  text-align: center ; ">
+
+                    <div class="" style="padding-left: 20px">
+                        <h2>About Me</h2>
+                        <img src="https://avatars0.githubusercontent.com/u/14257964?v=3&u=209103a5546ea69a6af113ec24e812aeb63741ab&s=140" class="img-circle"/>
+                        <br/>
+                        <br/>
+                        <span>I am <b>Clwater</b>. Welcome to my Blog , Wish </span><a href="/Home">it</a><span> will help you .</span>
+                    </div>
+
+                    <div style="height: 100px"></div>
+
+                    <div >
+                        <p>It will have some spceial things , but now , I didn`t actualize . Yes , I am not lazy .......</p>
+
+                    </div>
+                </div>
+
+
+                <a id="scrollUp" href="#top" style="bottom: 20px; right: 20px; width: 38px; ; height :38px ; display: block; position: fixed; z-index: 2147483647; background-image: url(https://raw.githubusercontent.com/clwater/ExternalFile/master/img/top.png); "></a>
 </div>
+
+
+<div class="col-md-12" style="padding-top: 40px;background-color: #000000 ; bottom: 0">
+
+    <p style="text-align: center ; color: #ffffff"> Designed by <b>Clwater</b>.</p>
+</div>
+
+
 
 </body>
 </html>
