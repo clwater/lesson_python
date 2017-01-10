@@ -13,11 +13,12 @@ def main():
 
     # print("电影票")
     # print(ts.realtime_boxoffice())
-
+    import matplotlib
+    matplotlib.use('TkAgg')
     import matplotlib.pyplot as plt
 
-    df = ts.get_hist_data('sh', start='2016-01-01')
-    df.to_excel('stock_sh.xlsx')
+    df = ts.get_hist_data('sz50', start='2016-11-01', end='2016-12-30')
+    #df.to_excel('stock_sh.xlsx')
     df.close.plot()
     ax = plt.gca()
     ax.invert_xaxis()
